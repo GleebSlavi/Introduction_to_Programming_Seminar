@@ -1,1 +1,1 @@
-# Introduction_to_Programming_Seminar
+#   Увод в Програмирането Семинар
